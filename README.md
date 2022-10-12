@@ -16,6 +16,8 @@ Linear Regression Model is built to give a prediction on Chances of Admission of
 ![image](https://user-images.githubusercontent.com/38419795/195322213-3a8e28e1-6a93-4466-a96d-ed04bd8ebac8.png)
 ![image](https://user-images.githubusercontent.com/38419795/195322275-2880036c-e03e-48af-965d-eba65e3f6e0c.png)
 ![image](https://user-images.githubusercontent.com/38419795/195322338-0b128b69-195b-4fa5-a72d-83de66e50b8e.png)
+![image](https://user-images.githubusercontent.com/38419795/195322574-5c13fcb4-6c46-45dc-a9a9-3e9011331f5e.png)
+
 ![image](https://user-images.githubusercontent.com/38419795/195322371-02f2023c-61d3-4a85-958b-af6fff214705.png)
 ![image](https://user-images.githubusercontent.com/38419795/195322429-8a3959ea-64d2-4b70-9d11-8de9d2260d1d.png)
 
